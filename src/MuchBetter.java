@@ -12,3 +12,11 @@ public class MuchBetter {
 	}
 
 }
+/*
+ * If you want to
+ * leave a note for future programmers
+ * in with your code
+ * place two slashes, like this //Another alternative is to 
+ * enclose your comments with
+ *
+ */
